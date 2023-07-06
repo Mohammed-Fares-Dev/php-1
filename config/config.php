@@ -1,8 +1,8 @@
 <?php
 
 define('HOST','localhost');
-define('USER','root');
-define('PASS','fares11111@');
+define('USER','');
+define('PASS','');
 define('DB_NAME','gestion_employes');
 
 
@@ -20,6 +20,4 @@ define('ROOT_URL','http://localhost:'.$_SERVER['SERVER_PORT'].'\/Mohammed_Fares_
 define('MOT_DE_PASS_PAR_DEFAULT','fares');
 define('DEPARTEMENTS',['Ressources humaines','Informatique','Comptabilité']);
 
-// $trgt = $_SERVER['DOCUMENT_ROOT'].'/Mohammed_Fares_c3/uploads/spl/';
-// $trgt1 = $_SERVER['DOCUMENT_ROOT'].'/Mohammed_Fares_c3/uploads/doctors/';
 
